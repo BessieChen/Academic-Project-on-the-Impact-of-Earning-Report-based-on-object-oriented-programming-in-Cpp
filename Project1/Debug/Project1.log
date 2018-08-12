@@ -1,0 +1,23 @@
+﻿  Main.cpp
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\stock.h(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\stock.h(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\stock.h(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\stock.h(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\operator.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\operator.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\operator.h(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(129): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex xu\desktop\fre6883\submission\project1\project1\accessories.h(340): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\Alex Xu\Desktop\FRE6883\submission\Project1\Debug\Project1.exe
