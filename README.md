@@ -23,9 +23,32 @@ The aim of this project is to evaluate the impact of earning report on stock pri
 3. Randomly selecting 40 stocks for each type
 
 
-### user-friendly menu
+### Calculation Functions
+1.Calculate AAR by using the vector of three maps
+2.Calculate CAAR by using the vector of maps and the result from previous calculation
+3.Calculate average of three loops(could be more than three) by using the AAR &CAAR results.
+
+
+
+
+### User-friendly menu
 <img width="501" alt="default" src="https://user-images.githubusercontent.com/33269462/44006788-03eb227c-9e58-11e8-9b17-4fe4eef0d5f6.png">
 
 ![1](https://user-images.githubusercontent.com/33269462/44006792-2da2d010-9e58-11e8-9472-bcd43228b46d.png)
+
+<img width="425" alt="default" src="https://user-images.githubusercontent.com/33269462/44006827-bd0991b2-9e58-11e8-9826-b2f4005b6bdd.png">
+
+
+### Conclusion
+Stocks beating EPS estimates have a better CAAR after EPS was released.
+Stocks meeting EPS estimates have a gentle CAAR drop after EPS was released 
+Stocks missing EPS estimates have a dramatic CAAR drop after EPS was released
+Earning report has a significant impact on stock price
+
+![1](https://user-images.githubusercontent.com/33269462/44006834-d5ab9a76-9e58-11e8-9647-f4e4fd5fc638.png)
+
+
+
+
 
 
